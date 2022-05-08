@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>XproAddin</Name>
+    <Assembly>XPro.dll</Assembly>
+    <AddInId>C9966D4F-E7E8-4E90-A8AD-EBD3BC9DA68A</AddInId>
+    <FullClassName>Xpro.ExternalApplication</FullClassName>
+    <Text>Files Exporter</Text>
+    <Description>this Plugin allows you to export multiple files in a single formate</Description>
+    <VendorId>Ahmed Kamal - Ramy Adel</VendorId>
+    <VendorDescription>ramyadel2300@gmail.com(or)ahmed_elbanna159@yahoo.com</VendorDescription>
+    <VisibitilyMode>NotVisibleWhenNoActiveDocument</VisibitilyMode>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,20 @@
+Hey Guys these are the steps to use this addin 
+
+Compatable with the following FrameWork:
+-.Net FrameWork 4.7
+
+Important Note:
+Make Sure that the Security at the XPro.dll Properties is set to be Unblocked  
+
+Steps To use this Addin
+-Copy these Files into the Following Directory: 
+	C:\Users\HP\AppData\Roaming\Autodesk\Revit\Addins\Write here the revit version
+
+-Run Revit Application
+-For Any Information Contact Us:
+	* ramyadel2300@gmail.com.
+	* ahmed_elbanna159@yahoo.com.
+ 
+We Hope You Like It.
+Our Regards.
+XPro Team
